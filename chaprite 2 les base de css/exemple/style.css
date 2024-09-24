@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+
+
+/* h1 est en aquamarine */
+h1 {
+    color: aquamarine;
+    text-align: center;
+}
+
+p {
+    color: rgb(94, 131, 83);
+    font-size: 30px;
+}
+li{
+    color: red;
+}
+.Dormir {
+    color: brown;
+}
+#Jouer {
+    color: blueviolet;
+}
+a {
+    text-decoration: none;
+    color: beige;
+    background-color: burlywood;
+    padding: spx;
+    border-radius: spx;
+}
+a:hover {
+    background-color: darkred;
+}
